@@ -12,7 +12,7 @@ Memory is a fun game that you may have played in "real life", with actual paper 
 * If the next card you flip does not match, a pop up alert notifies you of ths and the cards flip back.
 * The game continues until you match all the cards on the board.
 
-## [MIT](LICENSE)License
+## [MIT](LICENSE) License
 
 Copyright (c) 2021 Alex D'souza
 
